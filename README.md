@@ -30,8 +30,8 @@ You can view the code for this application [here](piano_player.cpp).
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone <https://github.com/Brooj-Nasir/Piano-Keys.git>
+    cd Piano-Keys
     ```
 2. **Compile the program**:
     ```bash
